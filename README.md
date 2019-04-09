@@ -27,9 +27,12 @@ cd chef_audit
 
 # install the required packages
 pip install -r requirements.txt
+```
 
 # Usage
-```Usage: chef_audit.py [options]
+
+```
+Usage: chef_audit.py [options]
 
 Options:
   -h, --help            show this help message and exit
